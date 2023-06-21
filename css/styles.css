@@ -1,0 +1,32 @@
+body {
+    font-family: a;
+    background-image: url("../img/barcelona.jpg");
+}
+
+.box{
+    
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 15px;
+    border-radius: 15px;
+    width: 400px;
+    margin: 0px auto;
+}
+
+fieldset {
+    border: 3px solid black;
+}
+
+legend {
+    border: 1px solid rgb(0, 0, 0);
+}
+#most-like{
+    width: 15rem;
+    height: 3rem;
+}
+#data_de_nascimento{
+    width: 7rem;
+    height: 2rem;
+}
+.form-group{
+    width: 20;
+}
