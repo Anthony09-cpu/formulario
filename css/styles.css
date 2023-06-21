@@ -43,3 +43,7 @@ legend {
     display: flex;
     margin: 0px auto;
 }
+form-observation{
+    width: 7rem;
+    height: 7rem;
+}
