@@ -3,8 +3,8 @@ body {
     background-image: url("../img/barcelona.jpg");
 }
 
-.box{
-    
+.box {
+
     background-color: rgba(255, 255, 255, 0.8);
     padding: 15px;
     border-radius: 15px;
@@ -19,15 +19,27 @@ fieldset {
 legend {
     border: 1px solid rgb(0, 0, 0);
 }
-#most-like{
+
+#most-like {
     width: 15rem;
     height: 3rem;
 }
-#data_de_nascimento{
+
+#data_de_nascimento {
     width: 7rem;
     height: 2rem;
 }
-#form-group{
-    width: 400px;
+
+.btn {
+    padding: 5px 8px;
+    width: 50px;
+    color: #000000;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 5px;
+    text-align: center;
+    user-select: none;
+    cursor: pointer;
+    display: flex;
     margin: 0px auto;
 }
